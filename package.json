@@ -1,7 +1,7 @@
 {
   "name": "common-reactui-template",
   "version": "0.0.1",
-  "description": "CCN Common React-Redux UI Template with Typescript, SASS build using Webpack 5",
+  "description": "React-Redux UI Template with Typescript, SASS build using Webpack 5",
   "scripts": {
     "start": "webpack serve --config webpack/webpack.config.js --env env=dev",
     "prebuild": "del-cli --force ./build",
